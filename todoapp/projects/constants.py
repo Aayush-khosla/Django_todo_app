@@ -1,0 +1,20 @@
+MAX_LENGTH_PROJECT_NAME = 100
+HELP_TEXT_PROJECT_MAX_MEMBERS = "Maximum number of members allowed in the project"
+HELP_TEXT_PROJECT_STATUS = "Status of the project: 0 = To be started, 1 = In progress, 2 = Completed"
+HELP_TEXT_PROJECT_MEMBERS = "The user assigned as a member to the project."
+HELP_TEXT_PROJECT_NAME = "Name of the project"
+
+HELP_TEXT_PROJECTMEMBER_PROJECT = "Select the project"
+HELP_TEXT_PROJECTMEMBER_MEMBER = "Select the member of this project"
+INVALID_STATUS_MESSAGE = "Invalid status value in the project."
+
+USER_IDS_EMPTY = "User IDs cannot be empty."
+PROJECT_ID_MISSING = "Project ID is missing in context."
+USER_DOES_NOT_EXIST = "User does not exist."
+ALREADY_MEMBER = "User is already a member"
+MEMBER_LIMIT_REACHED = "Cannot add more members, project limit reached"
+ALREADY_IN_TWO_PROJECTS = "User is already a member in two projects"
+MEMBER_ADDED = "Member added successfully"
+NOT_A_MEMBER = "User is not a member of this project"
+MEMBER_REMOVED = "Member removed successfully"
+USER_IDS_ERROR = "Invalid user IDs provided."
